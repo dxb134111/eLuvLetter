@@ -23,7 +23,7 @@ Note: the heartbeat animation indicates that the BGM is loading, please be patie
 
 2. Clone the repository to local:
 ```
-git clone https://github.com/%Your_GitHub_Account%/eLuvLetter.git
+git clone https://github.com/dxb134111/eLuvLetter.git
 ```
 
 3. Go to the `./eLuvLetter/font/` directory, open `content.json`, and customize the configuration as follows:
